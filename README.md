@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="123" alt="project-screenshot" width="400" height="400/">
+![IMG_1535](https://github.com/user-attachments/assets/98c19de5-7760-41eb-94e0-9d633122d1bc)
 
   
   
