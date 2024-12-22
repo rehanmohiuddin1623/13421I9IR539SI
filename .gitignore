@@ -73,4 +73,5 @@ yarn-error.log
 !.yarn/sdks
 !.yarn/versions
 
+# Ignore Info.plist in the ios/photogram directory
 ios/photogram/Info.plist
